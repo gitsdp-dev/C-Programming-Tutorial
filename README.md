@@ -16,7 +16,7 @@
 
 Welcome to the **C Programming Tutorial** repository!
 
-This project is designed to teach **C Programming** from absolute beginner level to advanced concepts through carefully structured lessons, practical examples, coding exercises, and mini projects.
+This project is designed by **CodeCrafters** to teach **C Programming** from absolute beginner level to advanced concepts through carefully structured lessons, practical examples, coding exercises, and mini projects.
 
 Unlike repositories that simply upload source code, this course focuses on **understanding the concepts behind the code**. Every chapter includes explanations, multiple examples, practice questions, and solutions to help learners build strong programming fundamentals.
 
