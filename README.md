@@ -76,11 +76,9 @@ Build your development environment and understand how C works.
 Topics include:
 
 * Introduction to C
-* History of C
 * Features of C
 * Installing GCC
 * Installing VS Code
-* Installing Code::Blocks
 * Writing your first program
 * Compilation Process
 * Common Errors
