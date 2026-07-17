@@ -1,4 +1,5 @@
-# Common Errors
+# Common Errors:
+**The errors are all total again summarised here as follows:**
 
 ## Error
 
