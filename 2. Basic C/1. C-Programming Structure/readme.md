@@ -1,5 +1,5 @@
 # C Programming Basic Structure:
-You have successfully setup yur environment and read the common errors for compilation, execution and linking very carefully. You will understand the *Common Errors* section when you start your programming yourself. These errors are written according to my own experience in C 😄. 
+You have successfully setup your environment and read the common errors for compilation, execution and linking very carefully. You will understand the *Common Errors* section when you start your programming yourself. These errors are written according to my own experience in C 😄. 
 
 ## Structure of a Basic C Program:
 ```c
