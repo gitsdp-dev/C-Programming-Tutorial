@@ -141,23 +141,6 @@ Topics include:
 
 ---
 
-# 📖 Chapter Structure
-
-Every chapter follows the same organized layout.
-
-```
-Chapter/
-│
-├── README.md
-├── theory.md
-│
-├── examples/
-│
-├── exercises/
-│
-├── solutions/
-```
-
 This makes learning easy and keeps the repository consistent.
 
 ---
